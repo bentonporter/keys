@@ -1,6 +1,6 @@
 package com.bentonporter;
 
-import lombok.experimental.Builder;
+import lombok.Builder;
 
 @Builder
 public class Key {
