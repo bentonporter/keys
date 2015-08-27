@@ -1,7 +1,7 @@
 Keys
 ====
 
-Simple tool for generating API and secret key pairs.
+A simple tool for generating random API and secret key pairs.
 
 Getting Started
 ---------------
@@ -14,7 +14,7 @@ Getting Started
 
 2.  Run it
 
-        $ java -jar target/keys-*.jar | python -mjson.tool
+        $ ./generate
 
 This will print out a randomly generated pair of keys:
 
